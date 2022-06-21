@@ -1,2 +1,5 @@
-# Linked-List
-Implemented a Linked List
+# Skills Practiced
+- Linked Lists
+- Iterators
+- Recursion
+- Auxiliary/Helper Methods
